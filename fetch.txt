@@ -1,4 +1,6 @@
 name
+qualification
+experience
 age
 graduation
 training certifiactes
